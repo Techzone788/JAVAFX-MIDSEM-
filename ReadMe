@@ -1,0 +1,60 @@
+# Student Management & Reporting System (JavaFX)
+
+## Project Overview
+The **Student Management & Reporting System** is a desktop application built using **JavaFX**. It is designed to manage student records efficiently and generate academic reports. The system provides a modern, user-friendly interface to perform CRUD operations on student data, filter and sort records, and export reports in CSV format.
+
+---
+
+## Features
+
+### Student Management
+- Add, edit, delete, and clear student records.
+- Manage Student ID, Full Name, Programme, Level, GPA, Email, Phone, and Status.
+
+### Filtering & Sorting
+- Filter students by Programme or Minimum GPA.
+- Sort records by GPA or Name.
+
+### Reporting
+- Generate reports based on selected criteria.
+- Export reports to CSV for external use.
+
+### User Interface
+- Modern JavaFX GUI with responsive layouts.
+- Card-style tables and floating filter panel.
+- Vibrant action buttons with hover effects and clear labeling.
+
+---
+
+## Technologies Used
+- **Java 17+** – core programming logic.
+- **JavaFX 25** – for rich and interactive GUI.
+- **FXML** – for declarative UI design.
+- Optional: **Maven/Gradle** for dependency and project management.
+
+---
+
+## Getting Started
+
+### Prerequisites
+- JDK 17 or higher installed.
+- JavaFX 25 SDK configured in your IDE (e.g., IntelliJ IDEA, Eclipse).
+
+### How to Run
+1. Clone or download the project repository.
+2. Open the project in your Java IDE.
+3. Ensure JavaFX libraries are configured.
+4. Run `Main.java` (or the main class containing `Application.launch()`).
+
+---
+
+## Usage
+1. Enter student details in the input fields.
+2. Click **Add** to save a student, **Edit** to modify, **Delete** to remove, and **Clear** to reset the form.
+3. Use the **Minimum GPA** filter and **Sort buttons** to manage table data.
+4. Generate reports using the **Generate** button.
+5. Export or import CSV files using **CSV IMPORT** and **CSV EXPORT** buttons.
+
+---
+
+## Project Structure
