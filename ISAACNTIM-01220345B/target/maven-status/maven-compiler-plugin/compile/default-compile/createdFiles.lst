@@ -1,0 +1,7 @@
+com\template\UI\ReportsController.class
+com\template\DOMAIN\StudentClass.class
+com\template\DATABASE\Studentdatabase.class
+com\template\LOGGING\DataLogg.class
+com\template\UI\MainController.class
+com\template\SECURITY\StudentValidation.class
+com\template\APPLAUNCHER\Main.class
